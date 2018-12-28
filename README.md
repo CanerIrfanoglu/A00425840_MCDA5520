@@ -44,7 +44,7 @@ Container Transportation Company
 - Decision Analysis (Demand Estimation)
 - Model building: initial setup, test and improve, interpretation
 
-Professor Proposes
+Professor Proposes (Project)
 - Predictive analytics
 - Model building, evaluating and improving
 - Multi-regression
