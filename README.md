@@ -2,10 +2,10 @@
 The statistics class involved preparing several case studies and presenting them as a group. This approach encouraged teamwork, learning and sharing about statistical concepts and their applications. Below is the cases and their scope:
 
 Firestone Canada Inc.
-• Retailing, marketing
-• Probability estimation, probability distribution and expected value
-• Business risk
-• Integrating strategies in marketing, operations and finance
+- Retailing, marketing
+- Probability estimation, probability distribution and expected value
+- Business risk
+- Integrating strategies in marketing, operations and finance
 
 Elite Rent-a-Car
 • Retailing, financial analysis
