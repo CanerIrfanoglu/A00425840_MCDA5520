@@ -24,10 +24,10 @@ City Center Hospital
 - Hypothesis testing and interpretation
  
 Lanco Catalogue Sales
-• Retailing, marking, inventory management
-• Contingency table
-• Skills in regression – clustering
-• Model built and analysis
+- Retailing, marking, inventory management
+- Contingency table
+- Skills in regression – clustering
+- Model built and analysis
 
 Orion Bus Industries
 - Bidding, sales & marketing, pricing, integrating operations
